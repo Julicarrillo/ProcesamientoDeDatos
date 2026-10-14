@@ -87,15 +87,19 @@ ProcesamientoDeDatos/
 ├── data/
 │   └── 1970-2021_DISASTERS.xlsx - emdat data.csv
 │
+
 ├── extract/
 │   └── extract.py
 │
+
 ├── transform/
 │   └── transform.py
 │
+
 ├── load/
 │   └── load.py
 │
+
 ├── outputs/
 │   ├── desastres_por_anio.png
 │   ├── desastres_tipo_continente.png
@@ -103,7 +107,9 @@ ProcesamientoDeDatos/
 │   ├── desastres_tipo_anio.png
 │   └── afectados_por_continente.png
 │
+
 ├── TP1_Procesamiento_De_Datos.ipynb
+
 └── README.md
 
 💡 Conclusión
